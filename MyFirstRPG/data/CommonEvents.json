@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[8,16]},{"code":102,"indent":1,"parameters":[["감옥 열쇠를 사용한다","그냥 둔다"],1,0,2,0]},{"code":402,"indent":1,"parameters":[0,"감옥 열쇠를 사용한다"]},{"code":101,"indent":2,"parameters":["",0,0,2,""]},{"code":401,"indent":2,"parameters":["문이 열렸다!"]},{"code":121,"indent":2,"parameters":[17,17,0]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"그냥 둔다"]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2,""]},{"code":401,"indent":1,"parameters":["열쇠가 필요할 것 같다..."]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Keycheck","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":250,"indent":0,"parameters":[{"name":"Open8","volume":50,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[15]},{"code":250,"indent":0,"parameters":[{"name":"Open8","volume":50,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[15]},{"code":250,"indent":0,"parameters":[{"name":"Open8","volume":50,"pitch":100,"pan":0}]},{"code":0,"indent":0,"parameters":[]}],"name":"나무효과","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
